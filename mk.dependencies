@@ -1,0 +1,8 @@
+[
+ {
+   "repository": "MoKee/android_vendor_samsung_galaxys2-common",
+   "target_path": "vendor/samsung/galaxys2-common",
+   "branch": "jb-mr1_mkt"
+ }
+]
+
