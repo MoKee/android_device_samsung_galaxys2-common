@@ -149,9 +149,12 @@ BOARD_SEPOLICY_UNION += \
     device.te \
     dhcp.te \
     domain.te \
+    drmserver.te \
     file.te \
     init.te \
+    kernel.te \
     kickstart.te \
+    lcd_device.te \
     mediaserver.te \
     netmgrd.te \
     platform_app.te \
@@ -162,9 +165,11 @@ BOARD_SEPOLICY_UNION += \
     servicemanager.te \
     sysinit.te \
     system.te \
+    system_app.te \
     system_server.te \
     time_daemon.te \
     ueventd.te \
+    vibe_device.te \
     vold.te \
     wpa.te \
     wpa_supplicant.te \
