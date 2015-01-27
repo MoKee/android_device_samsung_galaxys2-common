@@ -154,6 +154,7 @@ BOARD_SEPOLICY_UNION += \
     kickstart.te \
     mediaserver.te \
     netmgrd.te \
+    platform_app.te \
     qmiproxy.te \
     qmuxd.te \
     rild.te \
