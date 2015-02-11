@@ -164,6 +164,7 @@ BOARD_SEPOLICY_UNION += \
     rild.te \
     secril.te \
     servicemanager.te \
+    shell.te \
     sysinit.te \
     system.te \
     system_app.te \
